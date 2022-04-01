@@ -36,4 +36,4 @@ Návod na instalaci JDK a&nbsp;IntelliJ IDEA najdeš v&nbsp;kurzu [Java #1 na po
 
 ---
 
-[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2022-01/intro)
+[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2022-04/intro)
