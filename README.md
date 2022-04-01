@@ -41,7 +41,7 @@ Odkaz na WebEx:
 - Jazyk Java, první program
 - Proměnné a&nbsp;datové typy
 - _Konzultace čtvrtek 12.4.2022 20:00._
-### 2. [Popis dat (14.2.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_02)
+### 2. [Popis dat (14.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Operátory
