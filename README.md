@@ -83,9 +83,9 @@ Odkaz na WebEx:
 ## 🔥 Pojďme dál
 
 ### 7. [Automatizace překladu (19.5.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_07)
-  - IDE pro Git + opakování operací
-  - Maven
+  - Git: spolupráce více vývojářů, větve, merge requesty
   - Automatizace testování
+  - Maven
   - _Konzultace čtvrtek 24.5.2022 20:00._
 ### 8. [OOP podrobněji (26.5.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_08)
   - Zapouzdření, balíčky, final
