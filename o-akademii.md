@@ -100,15 +100,17 @@ Souhlasíš? ;)
 Je samozřejmě jen na vás, jak s&nbsp;Java Akademií naložíte. Jste naši zákazníci!
 
 Abychom společně dosáhli nejlepších výsledků, navrhujeme následující „pravidla“:
-1. Ptej se hned, jak narazíš na problém!
+1. Nevíš si rady? Ptej se!
+	- Může to být proto, že jsi v&nbsp;materiálech narazil na nesrovnalost, něco ti nefunguje, nebo ses nad nějakým úkolem dlouho zasekl. Zeptej se lektora!
+2. Ptej se hned, jakmile narazíš na problém!
 	- Není důležité, jak „hloupý“ Ti tvůj problém připadá. Neexistují hloupé dotazy. Pokud ti něco není jasné, je dotaz vždycky na místě!
-2. Sledování je zábavné, učíš se ale psaním!
+3. Sledování je zábavné, učíš se ale psaním!
 	- Víme, že je příjemné si sednout a&nbsp;sledovat, jak to lektorovi krásně jde (nebo třeba někdy nejde).
 	- Pokud to ale s&nbsp;učením myslíš vážně, musíš si věci zkoušet sám/sama!
 	- Je to stejné jako s&nbsp;běháním maratonu. Můžeš si poslechnout pět videokurzů o&nbsp;tom, jaké boty používat, jak se připravovat, jakou výživu zvolit.
 	- A&nbsp;skutečně, najdeš lidi, kteří Ti budou hodiny zasvěceně vyprávět, jak se připravit na maraton. Ale až se postavíš na start, rozhoduje počet naběhaných kilometrů!
 	- Je jen na Tobě, jestli se chcete stát „zdatným teoretikem“, nebo se skutečně naučit kódovat!
-3. Nevyhovuje Ti něco? Řekni to!
+4. Nevyhovuje Ti něco? Řekni to!
 	- Jsme tady pro Tebe. Neboj se říci si, co bys chtěl(a), nebo co by Ti pomohlo.
 	- Věnovali jsme přípravě hodně času, ale neznáme Tě a&nbsp;Tvoje potřeby tak, jako se znáš Ty. Když nám dáš vědět, budeme se snažit akademii přizpůsobit Tvým potřebám a&nbsp;Tvému tempu. 
 	- Navíc nám tím pomůžeš lépe pochopit, co účastníci akademie potřebují!

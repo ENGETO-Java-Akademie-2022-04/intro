@@ -20,13 +20,17 @@
 - Zdroje
 
 ### [Příprava](priprava.md)
-- Co a jak si nainstalovat?
+- [Co a jak si nainstalovat: JDK, IntelliJ IDEA](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/HpNRU9l5Tei60s0FTpvyrg/co-potrebujeme-nainstalovat)
+- [Instalace ve Windows](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/aQ4EJ4ukQS6uew3CKHwFIA/instalace-nastroju-ve-windows/instalace-jdk/pridani-jdk-do-promennych-java_home-a-path-volitelne)
+- [Instalace v Linuxu](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/nqYNISf5TYSWQVCFhnYcWg/instalace-nastroju-v-linuxu)
+- [Instalace v macOS](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/Zs66gM8VTlmUTjXA_9egbQ/instalace-nastroju-v-macos-apple)
 
 ### Další materiály
-- [Stránka Java akademie na learn.engeto.com](https://learn.engeto.com/)
+- [Výukový portál Learn.Engeto.com](https://learn.engeto.com/)
 - [Domácí úkoly](https://github.com/ENGETO-Java-Akademie-2022-04/ukoly-a-reseni)
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2022-04/kod-z-hodin)
-Odkaz na WebEx: 
+
+### Odkaz na WebEx: 
 - [on-line hodiny](https://engeto.my.webex.com/engeto.my/j.php?MTID=m394ce8f78fff0a6e8aa6a87ceb30c8b1&launchApp=true)
 - [on-line konzultace](https://engeto.my.webex.com/engeto.my/j.php?MTID=m4c0b0d474b01660b13e883dea6152bdd&launchApp=true)
 
@@ -37,10 +41,17 @@ Odkaz na WebEx:
 
 ## 🐌 Úvod do programování v Javě
 ### 1. [Úvod (7. 4. 2022)](https://github.com/ENGETO-Java-Akademie-2022-04/lekce_01)
-- Intro o&nbsp;akademii
-- Jazyk Java, první program
-- Proměnné a&nbsp;datové typy
-- _Konzultace čtvrtek 12.4.2022 20:00._
+ - [Jak probíhá Java akademie](https://github.com/ENGETO-Java-Akademie-2022-04/intro/blob/main/o-akademii.md)
+ - [Programování a Java](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/studium/gTbyr7PSSlCUtTu9_VmiMA/programovani-a-java)
+ - [První program v&nbsp;Javě](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/wVlX3Jj_Q4K_OKV2kTvm_Q/prvni-projekt-v-intellij-idea)
+ - [Proměnné](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/studium/tD5cKOqyRx-zDN1bt39ALw/promenne)
+  - [Datové typy](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/studium/QhU8fq4uRYSjYBmw6BPrEQ/datove-typy)
+ - _Konzultace čtvrtek 12.4.2022 20:00._
+
+Studijní materiály:
+ - [Java Akademie: Příprava](https://learn.engeto.com/cs/kurz/java-akademie-priprava/lekce)
+ - [Java: Zápis kódu v&nbsp;Javě](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/lekce)
+
 ### 2. [Popis dat (14.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
