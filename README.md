@@ -41,16 +41,21 @@
 
 ## 🐌 Úvod do programování v Javě
 ### 1. [Úvod (7. 4. 2022)](https://github.com/ENGETO-Java-Akademie-2022-04/lekce_01)
+ - _Konzultace čtvrtek 12.4.2022 20:00._
+
+<details><summary>Úvod do akademie, proměnné a datové typy</summary>
+
  - [Jak probíhá Java akademie](https://github.com/ENGETO-Java-Akademie-2022-04/intro/blob/main/o-akademii.md)
  - [Programování a Java](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/studium/gTbyr7PSSlCUtTu9_VmiMA/programovani-a-java)
  - [První program v&nbsp;Javě](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/wVlX3Jj_Q4K_OKV2kTvm_Q/prvni-projekt-v-intellij-idea)
  - [Proměnné](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/studium/tD5cKOqyRx-zDN1bt39ALw/promenne)
   - [Datové typy](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/studium/QhU8fq4uRYSjYBmw6BPrEQ/datove-typy)
- - _Konzultace čtvrtek 12.4.2022 20:00._
 
 Studijní materiály:
  - [Java Akademie: Příprava](https://learn.engeto.com/cs/kurz/java-akademie-priprava/lekce)
  - [Java: Zápis kódu v&nbsp;Javě](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave/lekce)
+
+</details>
 
 ### 2. [Popis dat (14.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_02)
 - Objekty, třídy
