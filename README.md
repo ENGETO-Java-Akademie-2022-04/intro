@@ -27,7 +27,7 @@
 
 ### Další materiály
 - [Výukový portál Learn.Engeto.com](https://learn.engeto.com/)
-- [Domácí úkoly](https://github.com/ENGETO-Java-Akademie-2022-04/ukoly-a-reseni)
+<!-- - [Domácí úkoly](https://github.com/ENGETO-Java-Akademie-2022-04/ukoly-a-reseni) -->
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2022-04/kod-z-hodin)
 
 ### Odkaz na WebEx: 
