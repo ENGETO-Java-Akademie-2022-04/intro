@@ -44,20 +44,20 @@
 - O&nbsp;Java Akademii a Engetu
 - Jazyk Java
 - Proměnné a datové typy
-- _Konzultace čtvrtek 12.4.2022 20:00._
+- _Konzultace úterý 12.4.2022 20:00._
 
 ### 2. [Popis dat (14.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Operátory
 - Kolekce
-- _Konzultace čtvrtek 19.4.2022 20:00._
+- _Konzultace úterý 19.4.2022 20:00._
 ### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (21.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_03)
 - Podmínky
 - Cykly
 - Komentáře, dokumentace
 - Výčtový typ (`enum`)
-- _Konzultace čtvrtek 26.4.2022 20:00._
+- _Konzultace úterý 26.4.2022 20:00._
 
 ---
 
@@ -67,17 +67,17 @@
 - Základ práce s&nbsp;repozitářem v&nbsp;příkazovém řádku
 - Pokročilejší: práce s&nbsp;historií, větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu: _GitHub Flow_ a _Pull request_
-- _Konzultace čtvrtek 3.5.2022 20:00._
+- _Konzultace úterý 3.5.2022 20:00._
 ### 5. [Soubory, výjimky (5.5.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
 - Parsování textového souboru
-- _Konzultace čtvrtek 10.5.2022 20:00._
+- _Konzultace úterý 10.5.2022 20:00._
 ### 6. [Kolekce, pole (12.5.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_06)
 - Operace nad kolekcemi
 - Pole
 - Zadání prvního projektu
-- _Konzultace čtvrtek 17.5.2022 20:00._
+- _Konzultace úterý 17.5.2022 20:00._
 
 ---
 
@@ -91,17 +91,17 @@
   - Git: spolupráce více vývojářů, větve, merge requesty
   - Automatizace testování
   - Maven
-  - _Konzultace čtvrtek 24.5.2022 20:00._
+  - _Konzultace úterý 24.5.2022 20:00._
 ### 8. [OOP podrobněji (26.5.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_08)
   - Zapouzdření, balíčky, final
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-  - _Konzultace čtvrtek 31.5.2022 20:00._
+  - _Konzultace úterý 31.5.2022 20:00._
 ### 9. [Časová složitost, mapy, vlákna (2.6.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_09)
   - Časová složitost algoritmů
   - Výběr kolekce a&nbsp;časová složitost
   - Práce s vlákny (thread)
-  - _Konzultace čtvrtek 7.6.2022 20:00._
+  - _Konzultace úterý 7.6.2022 20:00._
 
 ---
 
@@ -112,17 +112,17 @@
   - Čistý kód, refaktoring
   - Debugging
   - Ukázka &mdash; Jira
-  - _Konzultace čtvrtek 14.6.2022 20:00._
+  - _Konzultace úterý 14.6.2022 20:00._
 ### 11. [Databáze v Javě (16.6.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_11)
   - Práce s existující databází v&nbsp;Javě
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-  - _Konzultace čtvrtek 21.6.2022 20:00._
+  - _Konzultace úterý 21.6.2022 20:00._
 ### 12. [API (23.6.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/lekce_12)
   - Co je API?
   - Ukázka projektu s API
   - Zadání projektu
-  - _Konzultace čtvrtek 28.6.2022 20:00._
+  - _Konzultace úterý 28.6.2022 20:00._
 
 ---
 
