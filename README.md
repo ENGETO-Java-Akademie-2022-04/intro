@@ -27,8 +27,8 @@
 
 ### Další materiály
 - [Výukový portál Learn.Engeto.com](https://learn.engeto.com/)
-<!-- - [Domácí úkoly](https://github.com/ENGETO-Java-Akademie-2022-04/ukoly-a-reseni) -->
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2022-04/kod-z-hodin)
+<!-- - [Domácí úkoly](https://github.com/ENGETO-Java-Akademie-2022-04/ukoly-a-reseni) -->
 
 ### Odkaz na WebEx: 
 - [on-line hodiny](https://engeto.my.webex.com/engeto.my/j.php?MTID=m394ce8f78fff0a6e8aa6a87ceb30c8b1&launchApp=true)
@@ -40,7 +40,7 @@
 
 
 ## 🐌 Úvod do programování v Javě
-### 1. [Úvod (7. 4. 2022)](https://github.com/ENGETO-Java-Akademie-2022-04/lekce_01)
+### 1. [Úvod (7.4.2022)](https://github.com/ENGETO-Java-Akademie-2022-04/lekce_01)
 - O&nbsp;Java Akademii a Engetu
 - Jazyk Java
 - Proměnné a datové typy
