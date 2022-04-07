@@ -19,9 +19,9 @@
 - Jak studovat
 - Zdroje
 
-### [Příprava](priprava.md)
+### Příprava <!--(priprava.md)-->
 - [Co a jak si nainstalovat: JDK, IntelliJ IDEA](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/HpNRU9l5Tei60s0FTpvyrg/co-potrebujeme-nainstalovat)
-- [Instalace ve Windows](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/aQ4EJ4ukQS6uew3CKHwFIA/instalace-nastroju-ve-windows/instalace-jdk/pridani-jdk-do-promennych-java_home-a-path-volitelne)
+- [Instalace ve Windows](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/cWAQwx9yTN-oYd863UPZTA/instalace-nastroju-ve-windows/)
 - [Instalace v Linuxu](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/nqYNISf5TYSWQVCFhnYcWg/instalace-nastroju-v-linuxu)
 - [Instalace v macOS](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/Zs66gM8VTlmUTjXA_9egbQ/instalace-nastroju-v-macos-apple)
 
