@@ -13,11 +13,10 @@
 </p>-->
 <br>
 
-### [O&nbsp;Java Akademii](o-akademii.md)
-- Představení kurzu
+### [O&nbsp;Java Akademii](https://learn.engeto.com/cs/kurz/java-akademie-cviceni/studium/NAbYe5nzQUym_1osAymy5g/o-java-akademii)
+- Představení kurzu<!-- o-akademii.md-->
 - Představení lektorů
 - Jak studovat
-- Zdroje
 
 ### Příprava <!--(priprava.md)-->
 - [Co a jak si nainstalovat: JDK, IntelliJ IDEA](https://learn.engeto.com/cs/kurz/java-akademie-priprava/studium/HpNRU9l5Tei60s0FTpvyrg/co-potrebujeme-nainstalovat)

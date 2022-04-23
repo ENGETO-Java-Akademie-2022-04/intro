@@ -2,6 +2,8 @@
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
 </p>
 
+# Převedeno na Portál do kurzu [Java Akademie: Cvičení](https://learn.engeto.com/cs/kurz/java-akademie-cviceni/studium/NAbYe5nzQUym_1osAymy5g/o-java-akademii)
+
 # O&nbsp;Java Akademii
 
 
