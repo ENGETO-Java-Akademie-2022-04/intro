@@ -80,7 +80,7 @@
 
 ---
 
-### [První projekt](https://editor.engeto.com/cs/kurz/java-akademie-cviceni/studium/-6bRNA22RHW4LhEnwOCnFg/prvni-projekt-sazby-dphvat)<!--https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/projekt_01)-->
+### [První projekt](https://learn.engeto.com/cs/kurz/java-akademie-cviceni/studium/-6bRNA22RHW4LhEnwOCnFg/prvni-projekt-sazby-dphvat)<!--https://github.com/ENGETO-Java-Akademie-2022-04/content/tree/main/projekt_01)-->
 
 ---
 
